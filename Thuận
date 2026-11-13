@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiêu đề trang web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Xin chào thế giới!</h1>
+    <p>Đây là trang web HTML đầu tiên của tôi.</p>
+
+</body>
+</html>
